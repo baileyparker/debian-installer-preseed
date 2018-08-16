@@ -1,0 +1,7 @@
+language: shell
+dist: trusty
+os:
+  - linux
+
+script:
+  - make test
